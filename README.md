@@ -1,4 +1,4 @@
-# shopify-api v0.1.0-alpha [![Build Status](https://secure.travis-ci.org/ctalkington/node-shopify-api.png?branch=master)](http://travis-ci.org/ctalkington/node-shopify-api)
+# shopify-api v0.1.0 [![Build Status](https://secure.travis-ci.org/ctalkington/node-shopify-api.png?branch=master)](http://travis-ci.org/ctalkington/node-shopify-api)
 
 shopify-api is a node library for working with the [Shopify API](http://docs.shopify.com/api). It is designed to abstract away requests while returning unmodified responses. It should be used as a building block for other modules/packages which can handle any additional abstraction needed based on the API resource that they are working with.
 
