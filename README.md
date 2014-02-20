@@ -103,6 +103,18 @@ The resources that are currently supported by this library. Please submit PR if 
 
 ##### update(themeid, props)
 
+#### assetLegacy
+
+##### create(props)
+
+##### destroy(key)
+
+##### list()
+
+##### retrieve(key)
+
+##### update(props)
+
 #### theme
 
 ##### create(props)
