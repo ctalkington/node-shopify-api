@@ -1,3 +1,7 @@
+v0.2.0:
+  date: 2014-02-20
+  changes:
+    - add assetLegacy which doesn't require a themeid but isn't documented all that well.
 v0.1.0:
   date: 2014-01-15
   changes:
