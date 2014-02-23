@@ -71,7 +71,7 @@ The time in `ms` to wait for requests before timing out. Default: 120000ms (2 mi
 
 ### Instance Methods
 
-#### setAuth()
+#### setAuth(key, passwd)
 
 Sets the internal `auth` property.
 
@@ -79,11 +79,11 @@ Sets the internal `auth` property.
 
 Sets the internal `host`/`port` properties.
 
-#### setPort()
+#### setPort(port)
 
 Sets the internal `port` property.
 
-#### setTimeout()
+#### setTimeout(msec)
 
 Sets the internal `timeout` property.
 
