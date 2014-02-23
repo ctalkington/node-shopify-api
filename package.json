@@ -1,6 +1,6 @@
 {
   "name": "shopify-api",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Shopify API SDK for node.",
   "homepage": "https://github.com/ctalkington/node-shopify-api",
   "author": {
