@@ -70,7 +70,7 @@ describe('shopify', function() {
       };
 
       instance.asset.create(themeId, props, function(err, data) {
-        assert.propertyVal(err, 'type', 'ShopifyInvalidRequest');
+        assert.propertyVal(err, 'type', 'ShopifyInvalidRequestError');
         assert.property(err, 'detail');
         assert.isArray(err.detail);
         assert.isNull(data);
