@@ -1,3 +1,8 @@
+v0.2.3:
+  date: 2014-02-24
+  changes:
+    - catch HTTP 404 errors.
+    - add fallback values for error properties.
 v0.2.2:
   date: 2014-02-24
   changes:
